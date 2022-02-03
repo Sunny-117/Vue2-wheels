@@ -1,8 +1,26 @@
 <template>
-  <div id="app">
-    <router-view />
-  </div>
+  <div>23</div>
 </template>
 
-<style lang="less">
+<script>
+
+
+
+
+
+export default {
+  data() {
+    return {}
+  },
+  methods: {
+
+  },
+  components: {
+
+  }
+}
+</script>
+
+<style>
 </style>
+
